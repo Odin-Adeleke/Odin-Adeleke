@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Odin 👋
 
-<!--
-**Odin-Adeleke/Odin-Adeleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student from Thunder Bay, Canada, building toward a career in FinTech and sales engineering.
 
-Here are some ideas to get you started:
+I'm a self-taught developer who got into programming through building games, and I'm now working toward studying Computer Science at Bangkok University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- Python fundamentals (Harvard CS50P)
+- HubSpot Sales certification
+- Building out this portfolio
+
+### 🌱 Background
+- **Self-taught Lua developer** — built game mechanics and scripts in Roblox Studio
+- **Content creator** — run a YouTube channel covering Roblox gameplay (scripting, editing, thumbnails)
+- **Aviation Technology student** — hands-on technical training in aircraft systems and airport operations
+- **Retail associate @ Canadian Tire** — customer-facing work in a technical/hardware environment
+
+### 🎯 Goals
+- Study Computer Science @ Bangkok University (2027)
+- Specialize in Computing & Business Innovation
+- Build toward a remote sales engineering career in FinTech
+
+### 🛠️ Learning
+`Python` · `HTML/CSS` · `SQL` · `Lua` · `Git`
+
+### 📫 Reach me
+- Email: adelekeodin@gmail.com
+- LinkedIn: *(add link once set up)*
