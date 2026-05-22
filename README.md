@@ -1,4 +1,4 @@
-## Hi, I'm Odin 👋
+## Hey, I'm Odin 👋
 
 CS student from Thunder Bay, Canada, building toward a career in FinTech and sales engineering.
 
