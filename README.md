@@ -25,4 +25,4 @@ I'm a self-taught developer who got into programming through building games, and
 
 ### 📫 Reach me
 - Email: adelekeodin@gmail.com
-- LinkedIn: https://www.linkedin.com/in/odin-adeleke/
+- LinkedIn: www.linkedin.com/in/odin-adeleke/
