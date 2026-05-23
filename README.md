@@ -21,7 +21,7 @@ I'm a self-taught developer who got into programming through building games, and
 - Build toward a remote sales engineering career in FinTech
 
 ### 🛠️ Learning
-`Python` · `HTML/CSS` · `SQL` · `Lua` · `Git`
+`Python` · `HTML/CSS` · `SQL` · `Git`
 
 ### 📫 Reach me
 - Email: adelekeodin@gmail.com
