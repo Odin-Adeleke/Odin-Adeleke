@@ -10,10 +10,10 @@ I'm a self-taught developer who got into programming through building games, and
 - Building out this portfolio
 
 ### 🌱 Background
-- **Self-taught Lua developer** — built game mechanics and scripts in Roblox Studio
-- **Content creator** — run a YouTube channel covering Roblox gameplay (scripting, editing, thumbnails)
+- **E-commerce builder** — ran Shopify stores with a partner; wrote custom HTML and scripts to build storefront sections beyond the default theme editor
+- **Content creator** — run a YouTube channel covering Roblox gameplay (scriptwriting, editing, thumbnails)
 - **Aviation Technology student** — hands-on technical training in aircraft systems and airport operations
-- **Retail associate @ Canadian Tire** — customer-facing work in a technical/hardware environment
+- **Automotive Service @ Canadian Tire** — work in the garage with auto parts and service; tire handling, cleaning, and assisting with tire changes
 
 ### 🎯 Goals
 - Study Computer Science @ Bangkok University (2027)
